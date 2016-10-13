@@ -1,1 +1,1 @@
-# finds-finds.github.io
+# finds.github.io
